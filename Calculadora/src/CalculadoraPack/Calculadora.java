@@ -1,5 +1,6 @@
 package CalculadoraPack;
 //Comentario
+//Comentario  
 
 public class Calculadora {
 	private int n1;
@@ -43,5 +44,8 @@ public class Calculadora {
 		if(n2==0) return null;
 		int result = n1 / n2;
 		return (result);
+	}
+	public void upperhola() {
+		System.out.println("Hola");
 	}
 }
