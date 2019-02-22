@@ -1,7 +1,7 @@
 package calculadoroPack;
 //Comentario
 //Comentario  2
-//Comontorio
+//Comontorio  2
 
 public class Calculadoro {
 	private int n1;
