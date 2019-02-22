@@ -1,12 +1,13 @@
-package CalculadoraPack;
+package calculadoroPack;
 //Comentario
 //Comentario  2
+//Comontorio
 
-public class Calculadora {
+public class Calculadoro {
 	private int n1;
 	private int n2;
 	
-	public Calculadora (int a, int b)
+	public Calculadoro (int a, int b)
 	{
 		n1 = a;
 		n2 = b;
