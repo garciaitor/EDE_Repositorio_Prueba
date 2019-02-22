@@ -46,6 +46,7 @@ public class Calculadora {
 		if(n2==0) return null;
 		int result = n1 / n2;
 		System.out.println("Division");
+		System.out.println("dfjo");
 		return (result);
 	}
 	public void upperhola() {
